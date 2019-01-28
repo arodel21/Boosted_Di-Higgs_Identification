@@ -2,3 +2,11 @@
 notebooks/\.ipynb_checkpoints/Testing root_numpy-checkpoint\.ipynb
 
 notebooks/\.ipynb_checkpoints/
+
+notebooks/DNN_Example/\.ipynb_checkpoints/
+
+notebooks/DNN_Example/dataset_dnn/weights/TMVAClassification_DNN\.class\.C
+
+notebooks/DNN_Example/dataset_dnn/weights/TMVAClassification_DNN\.weights\.xml
+
+notebooks/DNN_Example/TMVAOutputDNN\.root
