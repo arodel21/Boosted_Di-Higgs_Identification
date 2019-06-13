@@ -64,7 +64,7 @@ outputFile->Close();
 if(!gROOT->IsBatch()) TMVA::TMVAGui("Higgs_ClassificationOutput.root");
 
 ///////////////////////
-//Reader Stage
+//Reader Stage, not working yet
 /////////////////////
 TMVA::Reader *reader = new TMVA::Reader( "!Color:!Silent" );
 
