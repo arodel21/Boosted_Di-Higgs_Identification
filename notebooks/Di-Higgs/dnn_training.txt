@@ -1,0 +1,2 @@
+nTrain_Signal=8000:nTrain_Background=400:SplitMode=Random:NormMode=NumEvents:!V
+nTrain_Signal=5000:nTrain_Background=200:SplitMode=Random:NormMode=NumEvents:!V

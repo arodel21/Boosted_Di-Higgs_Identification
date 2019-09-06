@@ -1,0 +1,2 @@
+H:!V:VarTransform=G:FilenameModel=model_dense.h5:NumEpochs=10:BatchSize=16:TriesEarlyStopping=10
+H:!V:VarTransform=G:FilenameModel=model_dense.h5:NumEpochs=50:BatchSize=20:TriesEarlyStopping=10

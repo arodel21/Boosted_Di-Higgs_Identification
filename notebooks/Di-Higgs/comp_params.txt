@@ -1,0 +1,2 @@
+categorical_crossentropy,categorical_accuracy
+categorical_crossentropy,categorical_accuracy

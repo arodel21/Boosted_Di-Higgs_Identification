@@ -1,0 +1,6 @@
+neurons,k_init,activation,input_dim
+64,glorot_normal,sigmoid,10
+64,glorot_normal,relu,-
+64,glorot_normal,relu,-
+64,glorot_normal,relu,-
+2,glorot_uniform,softmax,-
